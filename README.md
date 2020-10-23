@@ -18,6 +18,10 @@ Details of process to install / setup dev environment for the project, if applic
 
 How to use the project, if applicable
 
+## SreenShot
+
+![Jepsen-Brite project](screen.png)
+
 * * *
 
 October 2020, Ruben Lomo Maetsu & Arnaud De Baerdemaeker & Anne-Sophie Simana.
