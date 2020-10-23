@@ -10,9 +10,12 @@ An events website
 
 ## About
 
-Technical details: 
+Technical details:
+
 a SQL database is used for back-end 
+
 PHP for the front-end
+
 The deployment is on HEROKU 
 
 ## Installation (if applicable)
