@@ -5,10 +5,15 @@
 * * *
 
 A short abstract of the project, goals, context… Anything that should be useful for a future reader.
+An events website 
+
 
 ## About
 
-A more detailed description of the project, with technical details: used langages and techs, context, etc.
+Technical details: 
+a SQL database is used for back-end 
+PHP for the front-end
+The deployment is on HEROKU 
 
 ## Installation (if applicable)
 
